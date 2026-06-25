@@ -1,0 +1,26 @@
+{
+  "file_name": "notice_5.pdf",
+  "processed_at": "2026-06-25T10:23:49.832518",
+  "agent_outputs": [
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "classification_agent",
+      "content": "```json\n{\n  \"classification\": \"CEASE\",\n  \"confidence\": 0.9,\n  \"reason\": \"The document is a legal communication requesting restraint in outreach activities and hinting at potential future legal claims, aligning with the definition of a 'CEASE' document.\",\n  \"sender\": \"Merrit & Cole, Attorneys\",\n  \"recipient\": \"Correspondence Intake\",\n  \"document_type\": \"Legal Notice - Request for Restraint\",\n  \"deadline\": \"\",\n  \"summary\": \"Legal counsel for a client requests an immediate review of authorization records for outreach events and asks to limit certain outreach activities regarding sensitive personal or account information until proper corroboration of authorization is provided. The notice is not a blanket cease demand but reserves the right to pursue future claims.\"\n}\n```"
+    }
+  ]
+}

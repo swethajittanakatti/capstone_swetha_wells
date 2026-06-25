@@ -1,0 +1,26 @@
+{
+  "file_name": "LOA7.pdf",
+  "processed_at": "2026-06-25T10:18:37.992016",
+  "agent_outputs": [
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "classification_agent",
+      "content": "```json\n{\n  \"classification\": \"CEASE\",\n  \"confidence\": 0.9,\n  \"reason\": \"The document contains a formal instruction to all parties (creditors and collection agencies) to cease and desist from contacting the sender directly.\",\n  \"sender\": \"Client of LAW OFFICES OF DONALD A GREEN, APLC\",\n  \"recipient\": \"LAW OFFICES OF DONALD A GREEN, APLC\",\n  \"document_type\": \"Authorization and Cease and Desist Letter\",\n  \"deadline\": \"\",\n  \"summary\": \"This document is an authorization letter from a client to LAW OFFICES OF DONALD A GREEN, APLC. It authorizes the firm to communicate with creditors and collection agencies, obtain financial records, and negotiate debt agreements on the client's behalf. Crucially, the letter includes a formal instruction for all creditors and collection agencies to cease direct contact with the client and to direct all future communications exclusively to LAW OFFICES OF DONALD A GREEN, APLC or its representatives. Additionally, it grants authorization for the firm to access and disclose the client's health information for debt-related purposes.\"\n}\n```"
+    }
+  ]
+}

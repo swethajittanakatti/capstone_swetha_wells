@@ -1,0 +1,26 @@
+{
+  "file_name": "06_harassment_workplace.pdf",
+  "processed_at": "2026-06-25T10:11:09.608906",
+  "agent_outputs": [
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "classification_agent",
+      "content": "```json\n{\n  \"classification\": \"CEASE\",\n  \"confidence\": 1.0,\n  \"reason\": \"The document is explicitly a 'CEASE AND DESIST LETTER' demanding the recipient to 'cease and desist all unlawful activity relating to a pattern of workplace harassment, intimidation, and retaliatory conduct'.\",\n  \"sender\": \"Linda Fujimoto\",\n  \"recipient\": \"Mr. Thomas Greer, Regional Manager, Pacific Coast Retail Group\",\n  \"document_type\": \"Cease and Desist Letter\",\n  \"deadline\": \"March 26, 2026\",\n  \"summary\": \"Linda Fujimoto has sent a formal cease and desist letter to Mr. Thomas Greer, Regional Manager at Pacific Coast Retail Group, demanding an immediate halt to workplace harassment, discrimination, and retaliatory conduct. The letter outlines instances of derogatory comments about her Japanese heritage, exclusion from team activities, assignment of demeaning tasks, and threats of termination. It asserts violations of Title VII of the Civil Rights Act of 1964 and the California Fair Employment and Housing Act. Demands include ceasing all harassing behavior, refraining from discriminatory remarks, restoring full duties, and ensuring no retaliatory actions, with a deadline of March 26, 2026. Failure to comply will result in formal charges with the EEOC and DFEH, and a civil action for damages.\"\n}\n```"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "file_name": "bw_doc_4.pdf",
+  "processed_at": "2026-06-25T10:15:12.320056",
+  "agent_outputs": [
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "classification_agent",
+      "content": "```json\n{\n  \"classification\": \"IRRELEVANT\",\n  \"confidence\": 1.0,\n  \"reason\": \"The document is an informational request for guidance and procedural requirements regarding guardianship arrangements, which falls under the 'informational documents' category.\",\n  \"sender\": \"Grafton & Meyers, Family Law Division\",\n  \"recipient\": \"Care Coordination Desk\",\n  \"document_type\": \"Guardianship Consultation Request\",\n  \"deadline\": \"N/A\",\n  \"summary\": \"Grafton & Meyers, Family Law Division, is requesting an informational engagement with the Care Coordination Desk to discuss potential guardianship arrangements for a minor child. They seek guidance on account safeguards, contact protocols, and necessary forms or proof of guardianship to ensure continuity of access to funds for the child's welfare expenses.\"\n}\n```"
+    }
+  ]
+}

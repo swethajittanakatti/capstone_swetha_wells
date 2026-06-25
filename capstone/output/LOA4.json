@@ -1,0 +1,26 @@
+{
+  "file_name": "LOA4.pdf",
+  "processed_at": "2026-06-25T10:17:26.001434",
+  "agent_outputs": [
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "classification_agent",
+      "content": "```json\n{\n  \"classification\": \"CEASE\",\n  \"confidence\": 1.0,\n  \"reason\": \"The document contains the explicit phrase \\\"Cease and desist all communications regarding this account.\\\"\",\n  \"sender\": \"DAVANZO,BELLINA AMOEDO,RADCLIFF\",\n  \"recipient\": \"Creditors (To Whom It May Concern)\",\n  \"document_type\": \"Limited Power of Attorney and Cease and Desist Letter\",\n  \"deadline\": \"Continues until withdrawn in writing\",\n  \"summary\": \"A Limited Power of Attorney and Cease and Desist letter from DAVANZO,BELLINA AMOEDO,RADCLIFF, authorizing Five Lakes Law Group PLLC to act as their agent for debt resolution and demanding all communications from creditors cease and be directed to their legal representative.\"\n}\n```"
+    }
+  ]
+}

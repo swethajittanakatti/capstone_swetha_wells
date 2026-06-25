@@ -1,0 +1,26 @@
+{
+  "file_name": "LOA5.pdf",
+  "processed_at": "2026-06-25T10:17:48.010887",
+  "agent_outputs": [
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "classification_agent",
+      "content": "```json\n{\n  \"classification\": \"CEASE\",\n  \"confidence\": 1.0,\n  \"reason\": \"The document contains an explicit 'Cease and desist all communications' demand.\",\n  \"sender\": \"RANDLE L WIDHALM\",\n  \"recipient\": \"Creditors\",\n  \"document_type\": \"Limited Power of Attorney with Cease and Desist\",\n  \"deadline\": \"Not specified (until withdrawn in writing)\",\n  \"summary\": \"Randle L. Widhalm has granted Freedom Debt Relief, LLC a Limited Power of Attorney to manage their debt. The document instructs creditors to cease and desist all direct communications with Randle L. Widhalm and instead direct all correspondence to Freedom Debt Relief, LLC. This power of attorney is effective until withdrawn in writing.\"\n}\n```"
+    }
+  ]
+}

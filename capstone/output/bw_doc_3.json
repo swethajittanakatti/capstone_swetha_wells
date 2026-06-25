@@ -1,0 +1,26 @@
+{
+  "file_name": "bw_doc_3.pdf",
+  "processed_at": "2026-06-25T10:14:36.784764",
+  "agent_outputs": [
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "classification_agent",
+      "content": "```json\n{\n  \"classification\": \"IRRELEVANT\",\n  \"confidence\": 0.9,\n  \"reason\": \"The document is a request for document production for a compliance audit, which falls under the 'IRRELEVANT' classification rule for 'audits'.\",\n  \"sender\": \"Harrington Legal Counsel\",\n  \"recipient\": \"\",\n  \"document_type\": \"Request for Limited Document Production for Audit\",\n  \"deadline\": \"\",\n  \"summary\": \"Harrington Legal Counsel is requesting limited document production for a corporate client's routine compliance audit. The request is for historical account correspondence and transaction logs from January 1, 2023, to December 31, 2024, specifically regarding account authorizations, recorded consents, and third-party agent notices. The client prefers electronic copies via secure file transfer and requests information on required forms, costs, and any legal constraints.\"\n}\n```"
+    }
+  ]
+}

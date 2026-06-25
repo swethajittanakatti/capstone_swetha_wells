@@ -1,0 +1,26 @@
+{
+  "file_name": "LOA8.pdf",
+  "processed_at": "2026-06-25T10:19:00.377217",
+  "agent_outputs": [
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "classification_agent",
+      "content": "```json\n{\n  \"classification\": \"CEASE\",\n  \"confidence\": 1.0,\n  \"reason\": \"The document contains an explicit 'cease and desist' instruction to creditors and collection agencies, which is a key indicator for the CEASE classification.\",\n  \"sender\": \"BOBBI R GARDER\",\n  \"recipient\": \"Cordoba Legal Group, LLC\",\n  \"document_type\": \"Authorization to Communicate with Creditors and Collection Agencies / Cease and Desist\",\n  \"deadline\": \"2025-07-01\",\n  \"summary\": \"This document is an authorization from BOBBI R GARDER to Cordoba Legal Group, LLC, allowing them to communicate with creditors and collection agencies for debt negotiation and settlement. It explicitly instructs all parties to 'cease and desist' from contacting BOBBI R GARDER directly, directing all communications to Cordoba Legal Group, LLC or its authorized representatives.\"\n}\n```"
+    }
+  ]
+}

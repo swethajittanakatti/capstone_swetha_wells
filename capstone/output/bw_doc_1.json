@@ -1,0 +1,26 @@
+{
+  "file_name": "bw_doc_1.pdf",
+  "processed_at": "2026-06-25T10:13:15.702323",
+  "agent_outputs": [
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "classification_agent",
+      "content": "```json\n{\n  \"classification\": \"IRRELEVANT\",\n  \"confidence\": 1.0,\n  \"reason\": \"The document explicitly states, \\\"The purpose of this notice is informational,\\\" which aligns with the 'informational documents' criterion for an 'IRRELEVANT' classification.\",\n  \"sender\": \"Abernathy & Rowe - Client Affairs\",\n  \"recipient\": \"Records Coordinator / Recipient of the Notice\",\n  \"document_type\": \"Notice Regarding Limited Power of Attorney Representation\",\n  \"deadline\": \"N/A\",\n  \"summary\": \"This document is a notice from Abernathy & Rowe informing the recipient's office about a Limited Power of Attorney executed by a Principal in favor of their client. The POA grants the client authority to review account statements, submit instructions for account reconciliation, and liaise on discrete procedural issues. The notice requests the recipient to record the POA in their internal compliance ledger, advise on procedural steps for authorized interactions, and confirm receipt.\"\n}\n```"
+    }
+  ]
+}

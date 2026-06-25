@@ -1,0 +1,26 @@
+{
+  "file_name": "LOA2.pdf",
+  "processed_at": "2026-06-25T10:16:40.098607",
+  "agent_outputs": [
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "classification_agent",
+      "content": "```json\n{\n  \"classification\": \"CEASE\",\n  \"confidence\": 0.9,\n  \"reason\": \"Document explicitly contains 'Cease and desist' instruction regarding communications.\",\n  \"sender\": \"LOVETTA CANNUNZIATA\",\n  \"recipient\": \"Creditor/Debt Collector\",\n  \"document_type\": \"Cease and Desist Letter\",\n  \"deadline\": \"N/A\",\n  \"summary\": \"A Limited Power of Attorney from Lovetta Cannunziata to LAW OFFICES OF DONALD A. GREEN, APLC, authorizing the law office to resolve debt and demanding the recipient to cease and desist all direct communications, redirecting them exclusively to the law office.\"\n}\n```"
+    }
+  ]
+}

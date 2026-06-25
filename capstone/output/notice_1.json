@@ -1,0 +1,26 @@
+{
+  "file_name": "notice_1.pdf",
+  "processed_at": "2026-06-25T10:21:12.056439",
+  "agent_outputs": [
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "classification_agent",
+      "content": "```json\n{\n  \"classification\": \"CEASE\",\n  \"confidence\": 0.9,\n  \"reason\": \"The document demands a stop to specific outreach modes and to refrain from initiating further direct contact, aligning with 'CEASE' classification rules.\",\n  \"sender\": \"Harridan & Sutherland, Counselors at Law\",\n  \"recipient\": \"Legal Records Department\",\n  \"document_type\": \"Legal Notice\",\n  \"deadline\": \"\",\n  \"summary\": \"A legal notice from Harridan & Sutherland, Counselors at Law, on behalf of their client, demanding verification of the legal basis for continuing communications and requesting to refrain from initiating further direct contact by any new channels until justification is provided. It also requests acknowledgment of receipt and warns of further steps if the matter is not resolved promptly.\"\n}\n```"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "file_name": "notice_4.pdf",
+  "processed_at": "2026-06-25T10:23:15.148111",
+  "agent_outputs": [
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "classification_agent",
+      "content": "```json\n{\n  \"classification\": \"CEASE\",\n  \"confidence\": 0.9,\n  \"reason\": \"The document requests to 'avoid initiating further non-essential communications' and states that 'Our client reserves all rights and may seek protective or corrective relief if irregularities persist,' which indicates a demand to stop certain actions, similar to a cease and desist.\",\n  \"sender\": \"Bannister, Kline & Co.\",\n  \"recipient\": \"Data Privacy & Outreach Unit\",\n  \"document_type\": \"Legal Demand\",\n  \"deadline\": \"Not specified, a written response is expected confirming actions.\",\n  \"summary\": \"Bannister, Kline & Co., on behalf of their client, expresses concern over repeated data-driven outreach. They request clarification on the legal basis and consent for ongoing communications and ask the recipient to cease further non-essential communications until the matter is clarified. The client reserves all rights and may seek protective or corrective relief if irregularities persist. A written response is expected.\"\n}\n```"
+    }
+  ]
+}

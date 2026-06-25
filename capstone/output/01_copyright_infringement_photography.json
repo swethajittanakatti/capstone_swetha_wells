@@ -1,0 +1,14 @@
+{
+  "file_name": "01_copyright_infringement_photography.pdf",
+  "processed_at": "2026-06-25T15:33:31.882786",
+  "classification": null,
+  "action_taken": "HITL",
+  "routing_response": "",
+  "audit_response": "",
+  "agent_outputs": [
+    {
+      "agent": "root_agent",
+      "content": ""
+    }
+  ]
+}

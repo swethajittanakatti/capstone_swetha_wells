@@ -1,0 +1,26 @@
+{
+  "file_name": "LOA6.pdf",
+  "processed_at": "2026-06-25T10:18:13.217349",
+  "agent_outputs": [
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "classification_agent",
+      "content": "```json\n{\n  \"classification\": \"CEASE\",\n  \"confidence\": 1.0,\n  \"reason\": \"The document contains explicit 'Cease and Desist' language ('Cese y desista').\",\n  \"sender\": \"Client\",\n  \"recipient\": \"Creditor/Debt Collector\",\n  \"document_type\": \"Cease and Desist Letter with Limited Power of Attorney\",\n  \"deadline\": \"Not specified\",\n  \"summary\": \"This document is a letter from a client, represented by Five Lakes Law Group PLLC, to their creditors or debt collectors. It grants Five Lakes Law Group PLLC limited power of attorney to manage and resolve the client's debt, including negotiating settlements. Crucially, it contains a clear 'Cease and Desist' demand, instructing the recipient to stop all direct communication with the client and to direct all future communications exclusively to Five Lakes Law Group PLLC.\"\n}\n```"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "file_name": "02_trademark_infringement_tech.pdf",
+  "processed_at": "2026-06-25T10:09:39.619455",
+  "agent_outputs": [
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "classification_agent",
+      "content": "```json\n{\n  \"classification\": \"CEASE\",\n  \"confidence\": 1.0,\n  \"reason\": \"The document is explicitly a 'CEASE AND DESIST LETTER' concerning 'Trademark Infringement and Unfair Competition'.\",\n  \"sender\": \"Jonathan Marks, Esq., Partner, Marks & Sullivan LLP\",\n  \"recipient\": \"Ms. Rachel Torres, CEO, NovaSpark Technologies Inc.\",\n  \"document_type\": \"Cease and Desist Letter (Trademark Infringement)\",\n  \"deadline\": \"March 30, 2026\",\n  \"summary\": \"A formal cease and desist letter from Marks & Sullivan LLP, representing Stellarion Systems Corp., to NovaSpark Technologies Inc. The letter demands that NovaSpark Technologies Inc. immediately cease all unlawful activity related to the federally registered trademark 'NOVACORE' due to the infringing use of 'NovaCORE Suite'. Specific actions, including ceasing use of the infringing mark, removing it from all materials, transferring the domain name, and providing written confirmation of compliance, are demanded by March 30, 2026, to avoid legal action.\"\n}\n```"
+    }
+  ]
+}

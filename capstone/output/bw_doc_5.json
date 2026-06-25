@@ -1,0 +1,26 @@
+{
+  "file_name": "bw_doc_5.pdf",
+  "processed_at": "2026-06-25T10:15:51.215933",
+  "agent_outputs": [
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "classification_agent",
+      "content": "```json\n{\n  \"classification\": \"IRRELEVANT\",\n  \"confidence\": 0.9,\n  \"reason\": \"The document is a notification of an estate administrator appointment and requests procedural information, aligning with the 'informational documents' and 'appointment letters' criteria for IRRELEVANT classification.\",\n  \"sender\": \"Lindenbrook & Co. - Estates Practice\",\n  \"recipient\": \"Office/Institution handling estate accounts\",\n  \"document_type\": \"Notification of Estate Administrator Appointment\",\n  \"deadline\": \"\",\n  \"summary\": \"Notification from Lindenbrook & Co. - Estates Practice regarding the appointment of an Estate Administrator. The document requests information on procedures for the Administrator to review account balances, submit claims, and initiate transfers, including a checklist of required documents and confirmation of waiting periods. It states that the communication is procedural and not an immediate demand for disbursement.\"\n}\n```"
+    }
+  ]
+}

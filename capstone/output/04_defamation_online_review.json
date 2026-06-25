@@ -1,0 +1,26 @@
+{
+  "file_name": "04_defamation_online_review.pdf",
+  "processed_at": "2026-06-25T10:10:25.302559",
+  "agent_outputs": [
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "classification_agent",
+      "content": "```json\n{\n  \"classification\": \"CEASE\",\n  \"confidence\": 1.0,\n  \"reason\": \"The document is explicitly titled 'CEASE AND DESIST LETTER' and contains demands to stop defamatory statements, which aligns with the 'CEASE' classification rules.\",\n  \"sender\": \"Dr. Samantha Ellis, Owner, Ellis Integrative Health Clinic\",\n  \"recipient\": \"Mr. Brian Kessler\",\n  \"document_type\": \"Cease and Desist Letter\",\n  \"deadline\": \"March 24, 2026\",\n  \"summary\": \"A cease and desist letter from Dr. Samantha Ellis of Ellis Integrative Health Clinic to Mr. Brian Kessler, demanding he immediately delete false and defamatory online statements made on Google Reviews, Yelp, and Reddit, publish retractions, refrain from further statements, and pay $25,000 in damages by March 24, 2026. The statements falsely claim the clinic uses unlicensed practitioners, bills for services not rendered, and has been investigated for malpractice, leading to a decline in new patient appointments. Failure to comply will result in civil action.\"\n}\n```"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "file_name": "08_non_compete_violation.pdf",
+  "processed_at": "2026-06-25T10:11:53.839466",
+  "agent_outputs": [
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "classification_agent",
+      "content": "```json\n{\n  \"classification\": \"CEASE\",\n  \"confidence\": 1.0,\n  \"reason\": \"The document is explicitly a 'CEASE AND DESIST LETTER' and contains demands to 'immediately cease and desist all unlawful activity'.\",\n  \"sender\": \"Patricia Weldon, Esq., Partner — Employment Law, Hartley Weldon LLP\",\n  \"recipient\": \"Mr. James Okonkwo\",\n  \"document_type\": \"Cease and Desist Letter\",\n  \"deadline\": \"March 12, 2026\",\n  \"summary\": \"A formal cease and desist letter issued by Hartley Weldon LLP on behalf of LakePoint Advisors LLC to Mr. James Okonkwo. The letter demands that Mr. Okonkwo immediately cease violating his Non-Compete and Non-Solicitation Agreement by resigning from Crestview Wealth Management or ceasing competing financial advisory services, stopping all contact and solicitation of former LakePoint clients, returning or facilitating the return of transferred client relationships and assets, providing a detailed written account of all LakePoint clients contacted since his departure, and confirming in writing his intention to comply with the Agreement. All these actions are demanded on or before March 12, 2026, with a warning of legal consequences for non-compliance.\"\n}\n```"
+    }
+  ]
+}

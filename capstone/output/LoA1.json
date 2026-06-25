@@ -1,0 +1,26 @@
+{
+  "file_name": "LoA1.pdf",
+  "processed_at": "2026-06-25T10:16:12.971865",
+  "agent_outputs": [
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "classification_agent",
+      "content": "```json\n{\n  \"classification\": \"CEASE\",\n  \"confidence\": 1.0,\n  \"reason\": \"Document contains 'Cease and desist' instruction.\",\n  \"sender\": \"DAVANZO.BELLINA AMOEDO,RADCLIFF\",\n  \"recipient\": \"To Whom It May Concern (Creditors)\",\n  \"document_type\": \"Limited Power of Attorney and Cease and Desist Letter\",\n  \"deadline\": \"\",\n  \"summary\": \"This document is a Limited Power of Attorney from DAVANZO.BELLINA AMOEDO,RADCLIFF to PINNACLE LAW GROUP, authorizing the law group to act as their agent in resolving debt. It also includes a cease and desist order, directing all communications regarding the account to PINNACLE LAW GROUP and prohibiting direct contact with the client.\"\n}\n```"
+    }
+  ]
+}

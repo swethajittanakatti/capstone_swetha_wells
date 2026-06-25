@@ -1,0 +1,26 @@
+{
+  "file_name": "07_software_license_violation.pdf",
+  "processed_at": "2026-06-25T10:11:31.729850",
+  "agent_outputs": [
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "root_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "manager_agent",
+      "content": ""
+    },
+    {
+      "agent": "classification_agent",
+      "content": "```json\n{\n  \"classification\": \"CEASE\",\n  \"confidence\": 1.0,\n  \"reason\": \"The document is explicitly titled 'CEASE AND DESIST LETTER' and contains keywords such as 'Software License Violation', 'copyright infringement', and demands for immediate action to stop unlawful activity.\",\n  \"sender\": \"Michael Brennan, Esq., General Counsel, Forge Software Inc.\",\n  \"recipient\": \"Ms. Claire Dubois, VP of Engineering, Apex Consulting Group LLC\",\n  \"document_type\": \"Cease and Desist Letter\",\n  \"deadline\": \"February 28, 2026\",\n  \"summary\": \"A formal cease and desist letter issued by Forge Software Inc. to Apex Consulting Group LLC, alleging software license violations for ForgeDB Enterprise. The violations include deploying the software on 47 production servers instead of the licensed 10, and unauthorized sublicensing to three third-party clients. The letter demands immediate decommissioning of excess installations, termination of sublicensed deployments, payment of $564,000 in retroactive licensing fees, submission to an independent software audit, and execution of an amended license agreement. The deadline for these actions and for a written response is February 28, 2026.\"\n}\n```"
+    }
+  ]
+}
