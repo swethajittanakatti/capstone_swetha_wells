@@ -2,10 +2,15 @@
 Steps to execute the project
 '''bash
 python -m venv .venv
+
 source .venv.bin/activate
+
 .venv\Scripts\Activate.ps1
+
 pip install -r requirements.txt
+
 Uncomment GOOGLE_API_KEY from .env and provide the GOOGLE_API_KEY from your side and save them
+
 Python main.py
 
 # CEASE Document Processing System
